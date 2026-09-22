@@ -1,4 +1,7 @@
-# Projeto CI/CD Base
+# Projeto CI/CD Base 
+
+
+Rodrigo Avelar Santos
 
 Um projeto base para aprender **Integração Contínua (CI)** e **Entrega Contínua (CD)** utilizando Git, GitHub, GitHub Actions e Vercel.
 
